@@ -1,3 +1,8 @@
+#Muhammad Arrya Zhahir Zain
+#21Tk01
+#CYBER SECURITY
+#21.83.0602
+
 import random
 import tkinter
 from tkinter import *
