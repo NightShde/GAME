@@ -53,7 +53,8 @@ def get_text(i, j, gb, l1, l2):
         box = messagebox.showinfo("MENANG", "Pemain 2 Menang Di Match Ini")
     elif(isfull()):
         gb.destroy()
-        box = messagebox.showinfo("SERI, Game SERI")
+        x = False
+        box = messagebox.showinfo("Seri", "GAME SERI")
  
 # Periksa apakah pemain dapat menekan tombol atau tidak
  
